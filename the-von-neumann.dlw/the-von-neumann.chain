@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1949
+slug  : the-von-neumann
+seal  : 45080e971273425ea9bc714f531e7fc226e143a6d9f3b372dcf2d0ca3a42d4e4
+prev  : 4a37d9be5d76bc98da41f570eb141f5ad1ee209ae5cbdb23b9f84555c8765217
+link  : ca05bc06d51af98bb05d2dfa645b0e2ae63ce77652d21ba0739c969e3be889c7
+head  : ca05bc06d51af98bb05d2dfa645b0e2ae63ce77652d21ba0739c969e3be889c7
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
